@@ -9,7 +9,7 @@ A computação em nuvem revolucionou a forma como utilizamos tecnologia. Em vez 
 ### ⚙️ **Como a Computação em Nuvem Funciona?**
 Funciona por meio de grandes centros de dados espalhados pelo mundo, que fornecem infraestrutura, plataformas e softwares sob demanda. Esses serviços são entregues de forma escalável e flexível, permitindo que empresas e usuários cresçam (ou reduzam) seus recursos de acordo com suas necessidades.
 
-### 🚀 **Benefícios da Computação em Nuvem**
+### ⚙️ **Benefícios da Computação em Nuvem**
 **Escalabilidade:** Ajuste os recursos conforme o crescimento do projeto\
 **Economia:** Pague apenas pelo que usar\
 **Acessibilidade:** Acesse dados e serviços de qualquer lugar\
