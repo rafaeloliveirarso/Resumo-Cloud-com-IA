@@ -23,6 +23,8 @@ Funciona por meio de grandes centros de dados espalhados pelo mundo, que fornece
 | PaaS  | Platform as a Service       | Ambientes de desenvolvimento prontos para uso         |
 | SaaS  | Software as a Service       | Aplicações como Gmail, Google Docs, Trello, etc.      |
 
+### ⚙️ **Cargas de Trabalho Comuns de IA**
+
 # **COMO ME ENCONTRAR?**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaeloliveirarso/) 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaeloliveirarso)
