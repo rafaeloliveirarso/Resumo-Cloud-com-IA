@@ -24,8 +24,26 @@ Funciona por meio de grandes centros de dados espalhados pelo mundo, que fornece
 | SaaS  | Software as a Service       | Aplicações como Gmail, Google Docs, Trello, etc.      |
 
 ### ⚙️ **Cargas de Trabalho Comuns de IA**
+As cargas de trabalho de Inteligência Artificial referem-se às tarefas típicas que os sistemas de IA executam. Elas incluem:
+
+**Visão Computacional:** permite que máquinas interpretem imagens e vídeos.\
+**Processamento de Linguagem Natural (PLN):** entende e gera linguagem humana.\
+**Reconhecimento de Fala:** transforma fala em texto e vice-versa.\
+**Análise Preditiva:** usa dados históricos para prever eventos futuros.\
+**Sistemas de Recomendação:** sugerem conteúdos com base em preferências anteriores.
+
+Essas cargas são aplicadas em áreas como saúde, finanças, varejo e atendimento ao cliente.
 
 ### ⚙️ **Modelos de Linguagem Grandes**
+As cargas de trabalho de Inteligência Artificial referem-se às tarefas típicas que os sistemas de IA executam. Elas incluem:
+
+**Visão Computacional:** permite que máquinas interpretem imagens e vídeos.\
+**Processamento de Linguagem Natural (PLN):** entende e gera linguagem humana.\
+**Reconhecimento de Fala:** transforma fala em texto e vice-versa.\
+**Análise Preditiva:** usa dados históricos para prever eventos futuros.\
+**Sistemas de Recomendação:** sugerem conteúdos com base em preferências anteriores.
+
+Essas cargas são aplicadas em áreas como saúde, finanças, varejo e atendimento ao cliente.
 
 # **COMO ME ENCONTRAR?**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaeloliveirarso/) 
